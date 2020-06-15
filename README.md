@@ -15,6 +15,7 @@ San Francisco City Team
   - prerequisites 
     - cloud sign up with the vcpi link
     - creating services
+    - [sample video on Watson Studio prerequisites](https://www.loom.com/share/39ea49dbbae244a3917782737af28504)
   - additional links (to create excitement)
     - relevant code patterns
     - related readings on developer.ibm.com 
