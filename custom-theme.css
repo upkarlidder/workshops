@@ -1,0 +1,11 @@
+/* font-family: 'IBM Plex Mono', monospace; */
+:root {
+    --background-color: #fff;
+    --main-font: 'IBM Plex Mono', monospace;
+    --main-font-size: 40px;
+}
+
+body {
+    background-color: black;
+    font-family: 'IBM Plex Mono', monospace;
+}
