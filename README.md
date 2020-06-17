@@ -83,5 +83,5 @@ San Francisco City Team
 ---
 
 ## Additional resources 
-  - Advice on running online meetups: <https://maxkatz.org/2020/03/16/some-advice- on-running-online-meetups/>
-  - How content creates content: <https://maxkatz.org/2019/02/15/how-content-creates- content>
+  - Advice on running online meetups: <https://maxkatz.org/2020/03/16/some-advice-on-running-online-meetups/>
+  - How content creates content: <https://maxkatz.org/2019/02/15/how-content-creates-content>
